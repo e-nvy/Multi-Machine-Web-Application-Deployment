@@ -34,7 +34,3 @@ For scalability, you can replicate the setup on multiple physical machines, clou
 #### Conclusion
 
 The Multi-Machine Web Application Deployment project provides a comprehensive example of deploying a web application across multiple virtual machines using Vagrant. By leveraging the power of automation, developers can create scalable and reliable environments for hosting complex web applications. This project can be a stepping stone for deploying real-world applications with stringent performance and availability requirements.
-
-For detailed instructions and configuration options, please refer to the project's Vagrantfile and provisioning script in the GitHub repository. Happy coding and deploying!
-
-(Note: The provided code snippets and configuration details are based on the information available in the question. Please ensure to validate and modify them as per your specific needs and best practices.)
